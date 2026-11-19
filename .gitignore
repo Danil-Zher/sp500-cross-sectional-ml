@@ -1,0 +1,5 @@
+all_prices.parquet
+out_of_sample.parquet
+panel.parquet
+SPY.parquet
+.ipynb_checkpoints
